@@ -14,6 +14,7 @@
 5. Make good use of mathpix before its subscription ends
 6. Presentation for nust
 7. scrobook
+8. have to write my own comments on all the award functions that are in the literature 
 
 # Problems
 1. Wheels error on Laptop
