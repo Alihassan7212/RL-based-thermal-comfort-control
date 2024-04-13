@@ -12,7 +12,8 @@
 3. Write code for the simple thesis
 4. Write a good abstract. Use chatgpt
 5. Make good use of mathpix before its subscription ends
-6. Presentation for nust 
+6. Presentation for nust
+7. scrobook
 
 # Problems
 1. Wheels error on Laptop 
