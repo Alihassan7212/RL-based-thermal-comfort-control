@@ -20,6 +20,8 @@
 1. Wheels error on Laptop
 2. Dr James wants us to use scrbook for dissertation not finding the exact tempelate 
 
+# Important 
+ Dr James Said to watch a video 
 
 # helpful youtube videos 
 
