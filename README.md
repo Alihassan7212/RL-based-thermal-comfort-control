@@ -19,3 +19,9 @@
 # Problems
 1. Wheels error on Laptop
 2. Dr James wants us to use scrbook for dissertation not finding the exact tempelate 
+
+
+# helpful youtube videos 
+
+1. https://www.youtube.com/watch?v=LYuBTci6KlY
+2. 
