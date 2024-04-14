@@ -14,7 +14,8 @@
 5. Make good use of mathpix before its subscription ends
 6. Presentation for nust
 7. scrobook
-8. have to write my own comments on all the award functions that are in the literature 
+8. have to write my own comments on all the award functions that are in the literature
+9. **Have to write about euler linear simulator in thesis because dr james recommended and seeach oon web if you can find code for that as well solved with reinforcment learig**  
 
 # Problems
 1. Wheels error on Laptop
