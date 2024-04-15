@@ -16,7 +16,9 @@
 7. scrobook
 8. have to write my own comments on all the award functions that are in the literature
 9. **Have to write about euler linear simulator in thesis because dr james recommended and seeach oon web if you can find code for that as well solved with reinforcment learig**
-10. have to make a gaint chart to show what was your plan for this internship and hwo much is done 
+10. have to make a gaint chart to show what was your plan for this internship and hwo much is done
+11. Dr James has sent a book to osama about adaptive thermal comfort. need to see that for introduction
+12. Make 3 to 4 graphs on literatire review conducted and general methodlogy diagram 
 
 # Problems
 1. Wheels error on Laptop
