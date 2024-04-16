@@ -65,11 +65,18 @@
 
 
 
-# helpful youtube videos 
 
-1. https://www.youtube.com/watch?v=LYuBTci6KlY
 
 # Overleafs 
 1. https://www.overleaf.com/read/nskmsxkkbwkp#6e7121     RL Literature 
 2. https://www.overleaf.com/read/kdwkqtnnkbtm#495552     Reward Function
 3. https://www.overleaf.com/read/knsjkhjxsrxx#b692f8     My Own Reward function
+
+# helpful youtube videos 
+
+1. https://www.youtube.com/watch?v=LYuBTci6KlY
+
+
+# helpful tools
+
+1. connected papers 
