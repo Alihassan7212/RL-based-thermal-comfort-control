@@ -79,4 +79,23 @@
 
 # helpful tools
 
-1. connected papers 
+1. connected papers
+2. 
+
+# Flowchart 
+
+graph TD;
+    A[Start] --> B(Define Environment and Goals)
+    B --> C(Initialize RL Agent)
+    C --> D(Initialize Environment)
+    D --> E(Observe Initial State)
+    E --> F(Repeat Until Termination)
+    F --> G(Select Action)
+    G --> H(Execute Action)
+    H --> I(Observe Reward)
+    I --> J(Update Agent's Knowledge)
+    J --> K(Check Termination Condition)
+    K --> L{Termination Condition Met?}
+    L -->|Yes| M(End)
+    L -->|No| E
+
