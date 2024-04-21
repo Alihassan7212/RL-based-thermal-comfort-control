@@ -1,6 +1,6 @@
 # Tools purchased
 1. Mathpix - Resubscription on 7 May so need to cancel before that
-2. pdffiller https://www.pdffiller.com/en/account/account_information    do cancel before 25 or else you will be charged 25£
+2. pdffiller https://www.pdffiller.com/en/account/account_information    do cancel before 25 or else you will be charged 25£ subscription cancelled on 21
 
 # Progress so far
 1. Latex file for rewards in literature
