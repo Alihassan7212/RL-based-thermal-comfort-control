@@ -75,6 +75,7 @@
 # helpful youtube videos 
 
 1. https://www.youtube.com/watch?v=LYuBTci6KlY
+2. https://youtu.be/Q-ZAfCtJwh4?si=UUbg69lpPWu86wkD  bibliography in overleaf
 
 
 # helpful tools
