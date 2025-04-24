@@ -1,3 +1,8 @@
+#Australia Progress
+1. What if we use BOPTEST
+2. https://www.tandfonline.com/doi/epdf/10.1080/19401493.2021.1986574?needAccess=true
+
+
 # Tools purchased
 1. Mathpix - Resubscription on 7 May so need to cancel before that
 2. pdffiller https://www.pdffiller.com/en/account/account_information    do cancel before 25 or else you will be charged 25£ subscription cancelled on 21
