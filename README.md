@@ -3,7 +3,9 @@
 2. https://www.tandfonline.com/doi/epdf/10.1080/19401493.2021.1986574?needAccess=true
 3. Marzullo, T., S. Dey, N. L. Long, J. A. Leiva Vilaplana, K. Benne, and G. P. Henze. 2021. “A High-Fidelity Building Performance Simulation Test Bed for the Development and Evaluation of Advanced Controllers.” Journal of Building Performance Simulation.
 4. Go lecture to watch before giving final defence : https://drive.google.com/file/d/1lvCVQef_kctwCagA5QOVj7QljHQ1xKUQ/view
-5. 
+5. slides RL: https://davidstarsilver.wordpress.com/teaching/
+6. https://stable-baselines3.readthedocs.io/en/master/guide/rl.html
+7. https://github.com/ibpsa/project1-boptest-gym/blob/master/docs/tutorials/CCAI_Summer_School_2022/Building_Control_with_RL_using_BOPTEST.ipynb
 
 
 # Tools purchased
